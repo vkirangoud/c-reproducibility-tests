@@ -127,8 +127,6 @@ Here are some tools and practices commonly used to achieve **bit reproducibility
 
 Here’s a **Bit Reproducibility Checklist** to help you test and improve reproducibility across AMD and Intel CPUs:
 
----
-
 ### ✅ **Bit Reproducibility Checklist (AMD vs Intel)**
 
 #### 📦 **Environment Setup**
