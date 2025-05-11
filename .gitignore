@@ -1,0 +1,87 @@
+# Basic .gitignore file
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+*.out
+*.ref
+
+# Dependency directories
+node_modules/
+vendor/
+Pods/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+*.swp
+*.swo
+*.backup
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+*.class
+*.jar
+*.war
+*.ear
+out/
+build/
+dist/
+target/
+bin/
+
+# IDE specific files
+.idea/
+.project
+*.suo
+*.user
+*.userprefs
+*.sln
+*.sw?
+*.njb
+*.xcuserdatad/
+
+# Environment files
+.env
+.env.*
+!/.env.example
+
+# Packages
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+# Visual Studio Code
+.vscode/
+
+# Cache directories
+__pycache__/
+*.[Ii]ntermediate.cache/
+
+# Documentation files
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Ignore All in folder, except this file
+# /folder/*
+# !/folder/file.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# MacOS
+.AppleDouble
+._*
