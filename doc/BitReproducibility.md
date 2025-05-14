@@ -1,8 +1,5 @@
 # **Bit Reproducibility: Concepts, Challenges, and Practices**
 
-**Author**: Kiran Varaganti  
-**Date**: May 13, 2025  
-
 ---
 **Bit reproducibility** (also called **bit-for-bit reproducibility** or **bitwise reproducibility**) means that a computational process, when run multiple times under the same conditions, produces *exactly* the same binary output every time — down to the last bit.
 
